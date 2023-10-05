@@ -1,0 +1,11 @@
+.drag-container {
+
+
+    form{
+        transition: .5s;
+
+        &:hover{
+            background: rgba(144, 238, 144, 0.543);
+        }
+    }
+}
